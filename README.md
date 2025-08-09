@@ -2,7 +2,7 @@
 
 # Rust development environment setup
 
-_Rust Bootcamp week 1: Setting up your development environment_
+_Rust Bootcamp week 1: Setting up your development environment_ asdsada
 
 This week, you will learn how to optimize your Rust development workflow using powerful tools such as programming suggestions, prompts with Copilot, and GitHub Codespaces. By diving into the lessons on programming with suggestions, using prompts with Copilot, and exploring the fundamentals of Codespaces, you will acquire the skills to streamline your coding process and collaborate more efficiently with others.
 
